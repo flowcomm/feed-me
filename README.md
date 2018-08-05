@@ -2,7 +2,7 @@
 > ### Feed Me has a new home with the fine folks at Verbb. Read about it in our [blog post](https://verbb.io/blog/welcome-to-verbb).
 >
 
-# Feed Me Plugin for Craft CMS - Flow edit
+# Feed Me Plugin for Craft CMS - Flow 
 
 <img width="500" src="https://verbb.io/uploads/plugins/feed-me/_800x455_crop_center-center/feed-me-social-card.png">
 
